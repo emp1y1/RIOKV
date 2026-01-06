@@ -6,3 +6,4 @@ build/
 *.o
 *.log
 .DS_Store
+.history/
